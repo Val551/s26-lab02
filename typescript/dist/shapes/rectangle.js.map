@@ -1,0 +1,1 @@
+{"version":3,"file":"rectangle.js","sourceRoot":"","sources":["../../src/shapes/rectangle.ts"],"names":[],"mappings":"AAQA,SAAS,YAAY,CAAC,KAAa,EAAE,MAAc;IAC/C,OAAO;QACH,WAAW,EAAE;YACT,OAAO,KAAK,GAAG,MAAM,CAAA;QACzB,CAAC;KACJ,CAAA;AACL,CAAC;AAED,OAAO,EAAa,YAAY,EAAE,CAAA"}
